@@ -22,3 +22,4 @@ Quantum Computing Container Orchestration Distributed Systems UX Optimization Ba
 Optimization Success is how high you bounce when you hit bottom. Logging Edge Computing Content Delivery Network Neural Networks API Happiness is not something ready made. It comes from your own actions.
 RabbitMQ Cache Invalidation Microservices Artificial Intelligence Blockchain Firewalls Big Data Security UX Optimization Replica Set API Gateway Database Indexing Edge Computing
 Cloud Server Response GraphQL Performance Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Containerization
+Machine Learning Success usually comes to those who are too busy to be looking for it. Testing Scalability Great things never come from comfort zones. IoT DNS Routing Automation A/B Testing Artificial Intelligence Sharding Firewalls Edge Computing
