@@ -19,3 +19,4 @@ Cloud Functions Optimization CI/CD OAuth Blockchain
 API Gateway A/B Testing Logging CI/CD Event-driven Architecture Frontend Server Response Artificial Intelligence Version Control
 Agile RabbitMQ Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Serverless OAuth Latency Optimization Zero Downtime Deployment Event-driven Architecture Artificial Intelligence Cloud
 Server Response GraphQL Success usually comes to those who are too busy to be looking for it. OAuth Docker Distributed Systems Scalability React Monitoring Performance WebSockets
+Latency Optimization Don't be afraid to give up the good to go for the great. Pull Request JWT Event Sourcing Do what you love and the money will follow. Load Balancing API
