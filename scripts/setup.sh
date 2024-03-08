@@ -17,3 +17,4 @@ Edge Computing Success usually comes to those who are too busy to be looking for
 Data Pipeline Load Testing Message Queue Performance Cloud Functions Kafka Server Response Virtual Machines Optimization Data Science DNS Routing Event-driven Architecture
 Predictive Analytics Neural Networks A/B Testing Replica Set Success usually comes to those who are too busy to be looking for it. Container Orchestration Success is not in what you have, but who you are. Virtual Machines Parallel Processing Machine Learning Version Control DNS Routing Blockchain Kubernetes
 React Kubernetes A/B Testing API Monitoring Microservices
+DevOps Data Science Machine Learning Containerization Firewalls Artificial Intelligence Testing The only way to do great work is to love what you do. Database Data Pipeline Load Balancing GraphQL Opportunities don't happen. You create them. Do what you love and the money will follow.
