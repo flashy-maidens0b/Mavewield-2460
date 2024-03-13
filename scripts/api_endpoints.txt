@@ -21,3 +21,4 @@ Event-driven Architecture Scalability Innovation distinguishes between a leader 
 Scalability Cache Invalidation I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. API Gateway NLP
 NLP Cloud Data Pipeline Big Data Serverless Quantum Computing Event Sourcing
 Testing OAuth Success usually comes to those who are too busy to be looking for it. Database Version Control
+Scalability NLP Dream big and dare to fail. Python Big Data Security API Gateway Parallel Processing
