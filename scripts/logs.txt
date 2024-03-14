@@ -25,3 +25,4 @@ Python Don't be afraid to give up the good to go for the great. Microservices Sc
 Quantum Computing Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Load Balancing IoT Testing Zero Downtime Deployment
 Event Sourcing NLP Data Pipeline Containerization Big Data Container Orchestration API Gateway Database Multi-threading UX Optimization Kubernetes Lambda Functions
 Version Control To be the best, you must be able to handle the worst. Performance Opportunities don't happen. You create them. DevOps Work hard in silence, let your success be your noise. Load Balancing
+WebSockets To be the best, you must be able to handle the worst. Data Pipeline Cache Invalidation Agile Virtual Machines Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Quantum Computing GraphQL Database NLP CI/CD
