@@ -18,3 +18,4 @@ Version Control Success doesn’t just find you. You have to go out and get it. Si
 Cloud Functions Optimization CI/CD OAuth Blockchain
 API Gateway A/B Testing Logging CI/CD Event-driven Architecture Frontend Server Response Artificial Intelligence Version Control
 Agile RabbitMQ Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Serverless OAuth Latency Optimization Zero Downtime Deployment Event-driven Architecture Artificial Intelligence Cloud
+Server Response GraphQL Success usually comes to those who are too busy to be looking for it. OAuth Docker Distributed Systems Scalability React Monitoring Performance WebSockets

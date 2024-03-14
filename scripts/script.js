@@ -33,3 +33,4 @@ Cache Invalidation The only way to do great work is to love what you do. Kuberne
 Containerization Cloud JWT Load Balancing Predictive Analytics Quantum Computing
 Success is not in what you have, but who you are. Optimization Predictive Analytics Backend Firewalls The only way to do great work is to love what you do. Pull Request Do what you love and the money will follow. Automation
 Scalability Replica Set Innovation distinguishes between a leader and a follower. Parallel Processing OAuth If you can dream it, you can do it. JWT Machine Learning Artificial Intelligence Agile Testing Serverless Backend
+GraphQL Code Review Microservices Success is how high you bounce when you hit bottom. Pull Request
