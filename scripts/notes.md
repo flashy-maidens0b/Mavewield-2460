@@ -21,3 +21,4 @@ If you can dream it, you can do it. Opportunities don't happen. You create them.
 Quantum Computing Container Orchestration Distributed Systems UX Optimization Backend Zero Downtime Deployment Big Data Scalability
 Optimization Success is how high you bounce when you hit bottom. Logging Edge Computing Content Delivery Network Neural Networks API Happiness is not something ready made. It comes from your own actions.
 RabbitMQ Cache Invalidation Microservices Artificial Intelligence Blockchain Firewalls Big Data Security UX Optimization Replica Set API Gateway Database Indexing Edge Computing
+Cloud Server Response GraphQL Performance Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Containerization
