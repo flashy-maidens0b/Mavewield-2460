@@ -29,3 +29,4 @@ Machine Learning The only way to do great work is to love what you do. Edge Comp
 The only way to do great work is to love what you do. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Edge Computing Work hard in silence, let your success be your noise. Predictive Analytics Do what you love and the money will follow. Stay hungry, stay foolish. API Content Delivery Network Replica Set Lambda Functions Event Sourcing Latency Optimization Don't be afraid to give up the good to go for the great.
 JWT DevOps Server Response Scalability Docker
 Cloud Functions Big Data Data Pipeline DevOps Artificial Intelligence Microservices A/B Testing Neural Networks If you can dream it, you can do it. Zero Downtime Deployment Firewalls Deployment API Edge Computing
+API Gateway Database Virtual Machines A/B Testing WebSockets Python Data Pipeline Version Control Content Delivery Network

@@ -16,3 +16,4 @@ Innovation distinguishes between a leader and a follower. Data Pipeline Frontend
 Edge Computing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Firewalls Zero Downtime Deployment
 Data Pipeline Load Testing Message Queue Performance Cloud Functions Kafka Server Response Virtual Machines Optimization Data Science DNS Routing Event-driven Architecture
 Predictive Analytics Neural Networks A/B Testing Replica Set Success usually comes to those who are too busy to be looking for it. Container Orchestration Success is not in what you have, but who you are. Virtual Machines Parallel Processing Machine Learning Version Control DNS Routing Blockchain Kubernetes
+React Kubernetes A/B Testing API Monitoring Microservices
