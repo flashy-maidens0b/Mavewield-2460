@@ -19,3 +19,4 @@ Blockchain Event-driven Architecture Work hard in silence, let your success be y
 Machine Learning RabbitMQ Event-driven Architecture Cache Invalidation Security DNS Routing Success doesn’t just find you. You have to go out and get it. Distributed Systems DevOps Monitoring Code Review Cloud API Sharding
 NLP Automation If you can dream it, you can do it. Deployment Frontend API WebSockets Zero Downtime Deployment Cloud Parallel Processing Agile Security Dream big and dare to fail. Great things never come from comfort zones.
 JWT WebSockets Database Python Containerization Docker Success is not in what you have, but who you are. Performance Blockchain API Gateway Big Data Machine Learning DevOps Replica Set
+Lambda Functions Stay hungry, stay foolish. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Kubernetes RabbitMQ Container Orchestration
