@@ -20,3 +20,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 Python Stay hungry, stay foolish. Do what you love and the money will follow. Backend Machine Learning DNS Routing Database Cache Invalidation
 DNS Routing Opportunities don't happen. You create them. Database Indexing Kubernetes Data Science UX Optimization RabbitMQ Data Pipeline Success usually comes to those who are too busy to be looking for it. Automation Edge Computing IoT Deployment Success is not in what you have, but who you are.
 Code Review Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Load Testing Optimization
+Parallel Processing Containerization Automation Cloud Functions Kafka Database Indexing IoT DNS Routing Cache Invalidation Machine Learning Security Testing GraphQL Python

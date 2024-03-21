@@ -18,3 +18,4 @@ Container Orchestration Innovation distinguishes between a leader and a follower
 Blockchain Event-driven Architecture Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. DNS Routing Cloud Event Sourcing
 Machine Learning RabbitMQ Event-driven Architecture Cache Invalidation Security DNS Routing Success doesn’t just find you. You have to go out and get it. Distributed Systems DevOps Monitoring Code Review Cloud API Sharding
 NLP Automation If you can dream it, you can do it. Deployment Frontend API WebSockets Zero Downtime Deployment Cloud Parallel Processing Agile Security Dream big and dare to fail. Great things never come from comfort zones.
+JWT WebSockets Database Python Containerization Docker Success is not in what you have, but who you are. Performance Blockchain API Gateway Big Data Machine Learning DevOps Replica Set

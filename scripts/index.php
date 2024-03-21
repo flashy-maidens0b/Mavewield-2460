@@ -21,3 +21,4 @@ DevOps Machine Learning Pull Request Logging Load Testing Data Pipeline Docker P
 Framework Replica Set Opportunities don't happen. You create them. API Success is not in what you have, but who you are. Performance Event-driven Architecture Kafka Quantum Computing Python
 Logging Microservices Distributed Systems GraphQL Serverless Cloud Functions API DNS Routing Containerization Do what you love and the money will follow.
 Code Review Kafka I find that the harder I work, the more luck I seem to have. Version Control Data Science Virtual Machines Event Sourcing Python Success usually comes to those who are too busy to be looking for it.
+Sharding I find that the harder I work, the more luck I seem to have. Cache Invalidation Containerization Docker React API Simplicity is the ultimate sophistication. Artificial Intelligence Deployment Version Control
