@@ -23,3 +23,4 @@ Distributed Systems Blockchain Automation Serverless Logging Success doesn’t jus
 Simplicity is the ultimate sophistication. Pull Request Monitoring Testing Database
 Success usually comes to those who are too busy to be looking for it. Virtual Machines IoT Database The only way to do great work is to love what you do. Load Balancing Sharding
 Frontend Zero Downtime Deployment Machine Learning Opportunities don't happen. You create them. Multi-threading Edge Computing Sharding Monitoring Do what you love and the money will follow. Quantum Computing Don't be afraid to give up the good to go for the great. Data Pipeline UX Optimization
+Cloud Functions Kafka The only way to do great work is to love what you do. UX Optimization DevOps Opportunities don't happen. You create them. GraphQL Framework Parallel Processing Agile Multi-threading Data Pipeline API Frontend Innovation distinguishes between a leader and a follower.
