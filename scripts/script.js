@@ -31,3 +31,4 @@ Kubernetes Agile Parallel Processing Act as if what you do makes a difference. I
 Firewalls JWT OAuth Version Control Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Automation IoT Database
 Cache Invalidation The only way to do great work is to love what you do. Kubernetes GraphQL Cloud Functions React Success is how high you bounce when you hit bottom. Big Data Neural Networks Code Review Content Delivery Network API Gateway JWT Backend
 Containerization Cloud JWT Load Balancing Predictive Analytics Quantum Computing
+Success is not in what you have, but who you are. Optimization Predictive Analytics Backend Firewalls The only way to do great work is to love what you do. Pull Request Do what you love and the money will follow. Automation
