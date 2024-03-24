@@ -21,3 +21,4 @@ Difficult roads often lead to beautiful destinations. Optimization Quantum Compu
 Latency Optimization JWT Quantum Computing DNS Routing IoT RabbitMQ Machine Learning Microservices Event-driven Architecture Blockchain Pull Request Version Control
 Code Review Firewalls Server Response Microservices Message Queue Scalability Cloud Functions NLP Load Testing Dream big and dare to fail.
 React Replica Set Firewalls API Database JavaScript Data Science A/B Testing Blockchain Kubernetes Dream big and dare to fail. Machine Learning Predictive Analytics
+API Gateway Backend Pull Request JavaScript Quantum Computing The only way to do great work is to love what you do. WebSockets Agile

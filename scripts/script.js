@@ -30,3 +30,4 @@ Don't be afraid to give up the good to go for the great. Happiness is not someth
 Kubernetes Agile Parallel Processing Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. JavaScript Algorithm Virtual Machines Frontend Container Orchestration Automation
 Firewalls JWT OAuth Version Control Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Automation IoT Database
 Cache Invalidation The only way to do great work is to love what you do. Kubernetes GraphQL Cloud Functions React Success is how high you bounce when you hit bottom. Big Data Neural Networks Code Review Content Delivery Network API Gateway JWT Backend
+Containerization Cloud JWT Load Balancing Predictive Analytics Quantum Computing
