@@ -22,3 +22,4 @@ OAuth JWT Parallel Processing Big Data Success doesn’t just find you. You have t
 To be the best, you must be able to handle the worst. UX Optimization Dream big and dare to fail. Don't be afraid to give up the good to go for the great. DevOps
 JWT Kafka A/B Testing The only way to do great work is to love what you do. Optimization Event Sourcing React Stay hungry, stay foolish. Frontend Zero Downtime Deployment
 Cloud Innovation distinguishes between a leader and a follower. Server Response The only way to do great work is to love what you do. Pull Request Logging If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. OAuth Zero Downtime Deployment
+Virtual Machines Pull Request Multi-threading Success is not in what you have, but who you are. Big Data Testing
