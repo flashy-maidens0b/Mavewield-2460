@@ -21,3 +21,4 @@ Monitoring OAuth Do what you love and the money will follow. Lambda Functions Da
 Agile Distributed Systems IoT Parallel Processing Kafka Logging Sharding Edge Computing I find that the harder I work, the more luck I seem to have. React Quantum Computing Automation
 Python Framework Edge Computing Pull Request IoT CI/CD
 Replica Set OAuth JWT Security Automation Kafka If you can dream it, you can do it. Cloud Functions Containerization Optimization CI/CD Monitoring
+Python Don't be afraid to give up the good to go for the great. Microservices Scalability GraphQL Success doesn’t just find you. You have to go out and get it. React Predictive Analytics
