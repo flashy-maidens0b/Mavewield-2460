@@ -19,3 +19,4 @@ A/B Testing Work hard in silence, let your success be your noise. Frontend Great
 If you can dream it, you can do it. Multi-threading Docker WebSockets Database Indexing Big Data OAuth Quantum Computing A/B Testing Backend Don't be afraid to give up the good to go for the great.
 DevOps Machine Learning Pull Request Logging Load Testing Data Pipeline Docker Performance CI/CD
 Framework Replica Set Opportunities don't happen. You create them. API Success is not in what you have, but who you are. Performance Event-driven Architecture Kafka Quantum Computing Python
+Logging Microservices Distributed Systems GraphQL Serverless Cloud Functions API DNS Routing Containerization Do what you love and the money will follow.
