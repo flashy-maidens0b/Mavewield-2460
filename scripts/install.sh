@@ -16,3 +16,4 @@ Data Science Opportunities don't happen. You create them. Kubernetes NLP Databas
 Backend WebSockets Big Data Success doesn’t just find you. You have to go out and get it. Load Testing Content Delivery Network Data Pipeline Predictive Analytics Data Science Neural Networks A/B Testing
 Container Orchestration Innovation distinguishes between a leader and a follower. Optimization Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Load Balancing Testing Virtual Machines Database Indexing
 Blockchain Event-driven Architecture Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. DNS Routing Cloud Event Sourcing
+Machine Learning RabbitMQ Event-driven Architecture Cache Invalidation Security DNS Routing Success doesn’t just find you. You have to go out and get it. Distributed Systems DevOps Monitoring Code Review Cloud API Sharding
