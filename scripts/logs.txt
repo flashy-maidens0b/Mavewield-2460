@@ -20,3 +20,4 @@ Lambda Functions Latency Optimization OAuth Sharding Pull Request Python Load Ba
 Monitoring OAuth Do what you love and the money will follow. Lambda Functions Data Pipeline Virtual Machines Deployment API Microservices Firewalls Success is not in what you have, but who you are. If you can dream it, you can do it. React Innovation distinguishes between a leader and a follower.
 Agile Distributed Systems IoT Parallel Processing Kafka Logging Sharding Edge Computing I find that the harder I work, the more luck I seem to have. React Quantum Computing Automation
 Python Framework Edge Computing Pull Request IoT CI/CD
+Replica Set OAuth JWT Security Automation Kafka If you can dream it, you can do it. Cloud Functions Containerization Optimization CI/CD Monitoring

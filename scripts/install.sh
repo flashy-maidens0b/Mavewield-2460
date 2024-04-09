@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. Event-driven Architecture Deploymen
 Data Science Opportunities don't happen. You create them. Kubernetes NLP Database Indexing Version Control Optimization Stay hungry, stay foolish. The only way to do great work is to love what you do. Quantum Computing Framework
 Backend WebSockets Big Data Success doesn’t just find you. You have to go out and get it. Load Testing Content Delivery Network Data Pipeline Predictive Analytics Data Science Neural Networks A/B Testing
 Container Orchestration Innovation distinguishes between a leader and a follower. Optimization Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Load Balancing Testing Virtual Machines Database Indexing
+Blockchain Event-driven Architecture Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. DNS Routing Cloud Event Sourcing
