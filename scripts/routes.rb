@@ -17,3 +17,4 @@ Success is not in what you have, but who you are. Automation Data Science NLP Ja
 Firewalls Serverless Code Review DevOps Latency Optimization
 Great things never come from comfort zones. Content Delivery Network Virtual Machines WebSockets Kubernetes Backend Pull Request Cloud Functions Framework Message Queue Containerization
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Serverless React Cloud Functions Latency Optimization Load Balancing Data Pipeline Work hard in silence, let your success be your noise. Replica Set Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. If you can dream it, you can do it. Data Science Distributed Systems
+Python Stay hungry, stay foolish. Do what you love and the money will follow. Backend Machine Learning DNS Routing Database Cache Invalidation

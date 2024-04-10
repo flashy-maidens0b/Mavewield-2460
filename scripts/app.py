@@ -21,3 +21,4 @@ Automation I find that the harder I work, the more luck I seem to have. Message 
 Containerization Monitoring Logging Predictive Analytics Pull Request I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Great things never come from comfort zones. Performance API IoT Agile Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Algorithm
 Distributed Systems Blockchain Automation Serverless Logging Success doesn’t just find you. You have to go out and get it. Algorithm Machine Learning Stay hungry, stay foolish.
 Simplicity is the ultimate sophistication. Pull Request Monitoring Testing Database
+Success usually comes to those who are too busy to be looking for it. Virtual Machines IoT Database The only way to do great work is to love what you do. Load Balancing Sharding
