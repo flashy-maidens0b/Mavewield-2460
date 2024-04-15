@@ -20,3 +20,4 @@ Firewalls DNS Routing Zero Downtime Deployment Message Queue Simplicity is the u
 Automation I find that the harder I work, the more luck I seem to have. Message Queue Do what you love and the money will follow. Version Control GraphQL Dream big and dare to fail. Quantum Computing Act as if what you do makes a difference. It does.
 Containerization Monitoring Logging Predictive Analytics Pull Request I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Great things never come from comfort zones. Performance API IoT Agile Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Algorithm
 Distributed Systems Blockchain Automation Serverless Logging Success doesn’t just find you. You have to go out and get it. Algorithm Machine Learning Stay hungry, stay foolish.
+Simplicity is the ultimate sophistication. Pull Request Monitoring Testing Database
