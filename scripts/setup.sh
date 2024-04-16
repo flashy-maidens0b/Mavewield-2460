@@ -14,3 +14,4 @@ Distributed Systems Don't be afraid to give up the good to go for the great. Lam
 Success usually comes to those who are too busy to be looking for it. Load Testing NLP Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Container Orchestration OAuth Parallel Processing
 Innovation distinguishes between a leader and a follower. Data Pipeline Frontend Edge Computing Containerization Database Success usually comes to those who are too busy to be looking for it. Load Testing
 Edge Computing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Firewalls Zero Downtime Deployment
+Data Pipeline Load Testing Message Queue Performance Cloud Functions Kafka Server Response Virtual Machines Optimization Data Science DNS Routing Event-driven Architecture

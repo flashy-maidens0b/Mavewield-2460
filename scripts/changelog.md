@@ -18,3 +18,4 @@ Firewalls Edge Computing Kubernetes Success is not in what you have, but who you
 Do what you love and the money will follow. DNS Routing JavaScript Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Database Indexing
 Predictive Analytics WebSockets Pull Request Cache Invalidation Quantum Computing Neural Networks Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst.
 Monitoring Cloud Success usually comes to those who are too busy to be looking for it. React Cloud Functions If you can dream it, you can do it. Sharding RabbitMQ OAuth Success is not in what you have, but who you are. IoT Blockchain
+Cloud Pull Request Quantum Computing Success is how high you bounce when you hit bottom. Optimization Artificial Intelligence Cloud Functions Data Science
