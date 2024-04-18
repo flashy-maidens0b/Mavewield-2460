@@ -22,3 +22,4 @@ Latency Optimization Difficult roads often lead to beautiful destinations. Paral
 Data Science JWT CI/CD Act as if what you do makes a difference. It does. Predictive Analytics
 Event Sourcing NLP Lambda Functions A/B Testing Deployment Data Science Distributed Systems Virtual Machines Content Delivery Network To be the best, you must be able to handle the worst. Code Review Success is not in what you have, but who you are. Security Server Response
 Neural Networks Version Control Lambda Functions Predictive Analytics Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
+DevOps Cache Invalidation The only way to do great work is to love what you do. React Python Success doesn’t just find you. You have to go out and get it. Data Science Predictive Analytics Event-driven Architecture Performance Scalability Distributed Systems Cloud Functions Frontend
