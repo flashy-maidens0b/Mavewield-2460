@@ -20,3 +20,4 @@ Opportunities don't happen. You create them. Zero Downtime Deployment Dream big 
 If you can dream it, you can do it. Opportunities don't happen. You create them. GraphQL Difficult roads often lead to beautiful destinations. Deployment Cache Invalidation Multi-threading Event Sourcing
 Quantum Computing Container Orchestration Distributed Systems UX Optimization Backend Zero Downtime Deployment Big Data Scalability
 Optimization Success is how high you bounce when you hit bottom. Logging Edge Computing Content Delivery Network Neural Networks API Happiness is not something ready made. It comes from your own actions.
+RabbitMQ Cache Invalidation Microservices Artificial Intelligence Blockchain Firewalls Big Data Security UX Optimization Replica Set API Gateway Database Indexing Edge Computing
