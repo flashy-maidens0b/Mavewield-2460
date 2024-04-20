@@ -26,3 +26,4 @@ DNS Routing Success is not in what you have, but who you are. Opportunities don'
 DNS Routing Version Control Predictive Analytics Multi-threading GraphQL API Frontend CI/CD I find that the harder I work, the more luck I seem to have. Latency Optimization DevOps Machine Learning
 API Artificial Intelligence Load Balancing To be the best, you must be able to handle the worst. React Predictive Analytics
 Container Orchestration A/B Testing Agile Cloud Functions Code Review Opportunities don't happen. You create them. Parallel Processing Cache Invalidation Zero Downtime Deployment The only way to do great work is to love what you do. Load Balancing Multi-threading
+Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. API Event Sourcing Python CI/CD A/B Testing Work hard in silence, let your success be your noise. Latency Optimization
