@@ -20,3 +20,4 @@ API Framework Event Sourcing Blockchain Zero Downtime Deployment Content Deliver
 Virtual Machines Don't be afraid to give up the good to go for the great. Big Data Docker Database
 OAuth JWT Parallel Processing Big Data Success doesn’t just find you. You have to go out and get it. Container Orchestration Zero Downtime Deployment Security Great things never come from comfort zones. Cloud Functions Microservices Algorithm Automation
 To be the best, you must be able to handle the worst. UX Optimization Dream big and dare to fail. Don't be afraid to give up the good to go for the great. DevOps
+JWT Kafka A/B Testing The only way to do great work is to love what you do. Optimization Event Sourcing React Stay hungry, stay foolish. Frontend Zero Downtime Deployment

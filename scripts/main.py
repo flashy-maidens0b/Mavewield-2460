@@ -20,3 +20,4 @@ Performance Big Data API Microservices Docker Parallel Processing Edge Computing
 Difficult roads often lead to beautiful destinations. Optimization Quantum Computing IoT Sharding Dream big and dare to fail.
 Latency Optimization JWT Quantum Computing DNS Routing IoT RabbitMQ Machine Learning Microservices Event-driven Architecture Blockchain Pull Request Version Control
 Code Review Firewalls Server Response Microservices Message Queue Scalability Cloud Functions NLP Load Testing Dream big and dare to fail.
+React Replica Set Firewalls API Database JavaScript Data Science A/B Testing Blockchain Kubernetes Dream big and dare to fail. Machine Learning Predictive Analytics
