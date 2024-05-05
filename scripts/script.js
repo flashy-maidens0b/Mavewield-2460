@@ -24,3 +24,4 @@ Container Orchestration API Content Delivery Network The only way to do great wo
 Message Queue WebSockets To be the best, you must be able to handle the worst. IoT The only way to do great work is to love what you do. CI/CD Don't be afraid to give up the good to go for the great.
 DNS Routing Success is not in what you have, but who you are. Opportunities don't happen. You create them. Multi-threading Load Balancing Lambda Functions Agile Difficult roads often lead to beautiful destinations. Container Orchestration Sharding Kafka
 DNS Routing Version Control Predictive Analytics Multi-threading GraphQL API Frontend CI/CD I find that the harder I work, the more luck I seem to have. Latency Optimization DevOps Machine Learning
+API Artificial Intelligence Load Balancing To be the best, you must be able to handle the worst. React Predictive Analytics
