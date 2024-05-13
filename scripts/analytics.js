@@ -17,3 +17,4 @@ Content Delivery Network Difficult roads often lead to beautiful destinations. L
 Version Control Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. CI/CD Frontend Difficult roads often lead to beautiful destinations. Message Queue GraphQL RabbitMQ Kafka
 Cloud Functions Optimization CI/CD OAuth Blockchain
 API Gateway A/B Testing Logging CI/CD Event-driven Architecture Frontend Server Response Artificial Intelligence Version Control
+Agile RabbitMQ Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Serverless OAuth Latency Optimization Zero Downtime Deployment Event-driven Architecture Artificial Intelligence Cloud

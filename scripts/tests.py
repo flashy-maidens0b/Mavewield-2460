@@ -20,3 +20,4 @@ Event Sourcing RabbitMQ Monitoring Containerization Serverless Content Delivery 
 NLP React WebSockets API Gateway Cloud Functions Event-driven Architecture Content Delivery Network Machine Learning
 Latency Optimization Difficult roads often lead to beautiful destinations. Parallel Processing Containerization Great things never come from comfort zones. Opportunities don't happen. You create them. Data Science
 Data Science JWT CI/CD Act as if what you do makes a difference. It does. Predictive Analytics
+Event Sourcing NLP Lambda Functions A/B Testing Deployment Data Science Distributed Systems Virtual Machines Content Delivery Network To be the best, you must be able to handle the worst. Code Review Success is not in what you have, but who you are. Security Server Response
