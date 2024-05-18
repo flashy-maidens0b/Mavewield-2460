@@ -18,3 +18,4 @@ I find that the harder I work, the more luck I seem to have. Server Response If 
 Artificial Intelligence Scalability Frontend Cloud Functions Blockchain Simplicity is the ultimate sophistication. WebSockets Python Message Queue Don't be afraid to give up the good to go for the great. React OAuth Distributed Systems
 Opportunities don't happen. You create them. Zero Downtime Deployment Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Data Science IoT Server Response
 If you can dream it, you can do it. Opportunities don't happen. You create them. GraphQL Difficult roads often lead to beautiful destinations. Deployment Cache Invalidation Multi-threading Event Sourcing
+Quantum Computing Container Orchestration Distributed Systems UX Optimization Backend Zero Downtime Deployment Big Data Scalability
