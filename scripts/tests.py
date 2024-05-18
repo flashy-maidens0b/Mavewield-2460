@@ -19,3 +19,4 @@ Load Testing Happiness is not something ready made. It comes from your own actio
 Event Sourcing RabbitMQ Monitoring Containerization Serverless Content Delivery Network
 NLP React WebSockets API Gateway Cloud Functions Event-driven Architecture Content Delivery Network Machine Learning
 Latency Optimization Difficult roads often lead to beautiful destinations. Parallel Processing Containerization Great things never come from comfort zones. Opportunities don't happen. You create them. Data Science
+Data Science JWT CI/CD Act as if what you do makes a difference. It does. Predictive Analytics
