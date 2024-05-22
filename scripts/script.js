@@ -22,3 +22,4 @@ Docker Microservices Data Science Opportunities don't happen. You create them. A
 Difficult roads often lead to beautiful destinations. A/B Testing GraphQL Sharding Server Response Serverless Great things never come from comfort zones. Docker Firewalls
 Container Orchestration API Content Delivery Network The only way to do great work is to love what you do. Neural Networks DevOps Security Load Balancing
 Message Queue WebSockets To be the best, you must be able to handle the worst. IoT The only way to do great work is to love what you do. CI/CD Don't be afraid to give up the good to go for the great.
+DNS Routing Success is not in what you have, but who you are. Opportunities don't happen. You create them. Multi-threading Load Balancing Lambda Functions Agile Difficult roads often lead to beautiful destinations. Container Orchestration Sharding Kafka
