@@ -21,3 +21,4 @@ Do what you love and the money will follow. GraphQL NLP Containerization Machine
 Docker Microservices Data Science Opportunities don't happen. You create them. Algorithm OAuth Container Orchestration Latency Optimization Data Pipeline Load Testing Multi-threading Act as if what you do makes a difference. It does. The only way to do great work is to love what you do.
 Difficult roads often lead to beautiful destinations. A/B Testing GraphQL Sharding Server Response Serverless Great things never come from comfort zones. Docker Firewalls
 Container Orchestration API Content Delivery Network The only way to do great work is to love what you do. Neural Networks DevOps Security Load Balancing
+Message Queue WebSockets To be the best, you must be able to handle the worst. IoT The only way to do great work is to love what you do. CI/CD Don't be afraid to give up the good to go for the great.
