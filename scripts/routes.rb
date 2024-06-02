@@ -15,3 +15,4 @@ Difficult roads often lead to beautiful destinations. DNS Routing Dream big and 
 Containerization Work hard in silence, let your success be your noise. Monitoring Load Balancing Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Automation Data Science NLP JavaScript Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Firewalls Serverless Edge Computing Predictive Analytics Innovation distinguishes between a leader and a follower. Multi-threading Microservices
 Firewalls Serverless Code Review DevOps Latency Optimization
+Great things never come from comfort zones. Content Delivery Network Virtual Machines WebSockets Kubernetes Backend Pull Request Cloud Functions Framework Message Queue Containerization
