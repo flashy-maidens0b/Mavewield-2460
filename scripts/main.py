@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. NLP If you can dream it
 Event-driven Architecture Docker Scalability Act as if what you do makes a difference. It does. If you can dream it, you can do it. Containerization
 Cache Invalidation Work hard in silence, let your success be your noise. GraphQL Serverless Docker Monitoring
 JavaScript Cloud Event Sourcing Multi-threading RabbitMQ
+Performance Big Data API Microservices Docker Parallel Processing Edge Computing To be the best, you must be able to handle the worst. Scalability If you can dream it, you can do it. Message Queue
