@@ -17,3 +17,4 @@ Data Science Pull Request Dream big and dare to fail. Content Delivery Network M
 Container Orchestration Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Data Science Latency Optimization Scalability Replica Set Virtual Machines
 UX Optimization Event-driven Architecture Monitoring Load Balancing Data Science
 API Framework Event Sourcing Blockchain Zero Downtime Deployment Content Delivery Network
+Virtual Machines Don't be afraid to give up the good to go for the great. Big Data Docker Database
