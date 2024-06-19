@@ -14,3 +14,4 @@ Latency Optimization UX Optimization Cloud Functions Work hard in silence, let y
 Dream big and dare to fail. Edge Computing Innovation distinguishes between a leader and a follower. Database Indexing UX Optimization
 Database Backend API Do what you love and the money will follow. Kubernetes JavaScript Virtual Machines
 Work hard in silence, let your success be your noise. Do what you love and the money will follow. Great things never come from comfort zones. Version Control Success is not in what you have, but who you are. Optimization Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Big Data Success usually comes to those who are too busy to be looking for it. React Don't be afraid to give up the good to go for the great. Firewalls
+Event Sourcing Logging Framework Content Delivery Network Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. JWT

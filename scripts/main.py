@@ -14,3 +14,4 @@ Work hard in silence, let your success be your noise. Serverless Simplicity is t
 Frontend Success is not in what you have, but who you are. A/B Testing Monitoring Simplicity is the ultimate sophistication. Predictive Analytics JavaScript
 Don't be afraid to give up the good to go for the great. NLP If you can dream it, you can do it. IoT Monitoring CI/CD Load Testing GraphQL Firewalls Lambda Functions DNS Routing Frontend Deployment
 Event-driven Architecture Docker Scalability Act as if what you do makes a difference. It does. If you can dream it, you can do it. Containerization
+Cache Invalidation Work hard in silence, let your success be your noise. GraphQL Serverless Docker Monitoring
