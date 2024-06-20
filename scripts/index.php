@@ -14,3 +14,4 @@ Data Pipeline Success usually comes to those who are too busy to be looking for 
 Backend UX Optimization Microservices Serverless Algorithm Deployment Quantum Computing Neural Networks Replica Set Performance Load Testing JavaScript Data Science
 Stay hungry, stay foolish. Data Science Serverless DevOps Sharding
 Kafka Kubernetes Performance Happiness is not something ready made. It comes from your own actions. Serverless Success usually comes to those who are too busy to be looking for it. DevOps Monitoring Testing Machine Learning Cloud OAuth
+Message Queue Machine Learning Dream big and dare to fail. Container Orchestration Simplicity is the ultimate sophistication. Cloud NLP Predictive Analytics Stay hungry, stay foolish. Load Balancing Replica Set Latency Optimization
