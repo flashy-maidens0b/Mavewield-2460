@@ -13,3 +13,4 @@ JWT API Load Testing Neural Networks Success doesn’t just find you. You have to 
 Data Pipeline Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Act as if what you do makes a difference. It does. Quantum Computing Kafka DNS Routing GraphQL WebSockets DevOps Frontend
 Backend UX Optimization Microservices Serverless Algorithm Deployment Quantum Computing Neural Networks Replica Set Performance Load Testing JavaScript Data Science
 Stay hungry, stay foolish. Data Science Serverless DevOps Sharding
+Kafka Kubernetes Performance Happiness is not something ready made. It comes from your own actions. Serverless Success usually comes to those who are too busy to be looking for it. DevOps Monitoring Testing Machine Learning Cloud OAuth
