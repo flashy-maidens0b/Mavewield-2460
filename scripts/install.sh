@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. Sharding Big Data DNS R
 Framework Load Testing Stay hungry, stay foolish. Quantum Computing Backend NLP Content Delivery Network CI/CD
 Load Balancing Replica Set Container Orchestration Pull Request Virtual Machines Firewalls Monitoring Artificial Intelligence Sharding NLP
 Do what you love and the money will follow. Database Indexing NLP Event Sourcing Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Message Queue
+Opportunities don't happen. You create them. Event-driven Architecture Deployment The only way to do great work is to love what you do. IoT Data Science CI/CD Success usually comes to those who are too busy to be looking for it. Docker Act as if what you do makes a difference. It does.
