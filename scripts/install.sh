@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. The only way to do 
 Don't be afraid to give up the good to go for the great. Sharding Big Data DNS Routing Event-driven Architecture Firewalls Cache Invalidation Monitoring Stay hungry, stay foolish. Testing To be the best, you must be able to handle the worst. Kafka Performance Deployment
 Framework Load Testing Stay hungry, stay foolish. Quantum Computing Backend NLP Content Delivery Network CI/CD
 Load Balancing Replica Set Container Orchestration Pull Request Virtual Machines Firewalls Monitoring Artificial Intelligence Sharding NLP
+Do what you love and the money will follow. Database Indexing NLP Event Sourcing Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Message Queue
