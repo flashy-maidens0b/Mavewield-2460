@@ -12,3 +12,4 @@ Zero Downtime Deployment Big Data Version Control Algorithm UX Optimization Code
 WebSockets React To be the best, you must be able to handle the worst. Event Sourcing Success doesn’t just find you. You have to go out and get it. RabbitMQ
 Artificial Intelligence Stay hungry, stay foolish. Predictive Analytics JWT Scalability UX Optimization Serverless
 Difficult roads often lead to beautiful destinations. DNS Routing Dream big and dare to fail. Cloud Kubernetes DevOps Event Sourcing Agile Virtual Machines
+Containerization Work hard in silence, let your success be your noise. Monitoring Load Balancing Simplicity is the ultimate sophistication.
