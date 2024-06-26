@@ -15,3 +15,4 @@ Algorithm If you can dream it, you can do it. Container Orchestration Act as if 
 React Neural Networks Serverless Message Queue Testing Do what you love and the money will follow. Parallel Processing GraphQL
 Data Science Pull Request Dream big and dare to fail. Content Delivery Network Machine Learning Latency Optimization API To be the best, you must be able to handle the worst. UX Optimization Code Review Cloud Deployment JWT Security Logging
 Container Orchestration Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Data Science Latency Optimization Scalability Replica Set Virtual Machines
+UX Optimization Event-driven Architecture Monitoring Load Balancing Data Science
