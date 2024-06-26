@@ -9,3 +9,4 @@ Python Optimization JavaScript Performance To be the best, you must be able to h
 I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Multi-threading Message Queue Serverless Automation Distributed Systems Success is how high you bounce when you hit bottom. GraphQL Python
 Don't be afraid to give up the good to go for the great. Sharding Big Data DNS Routing Event-driven Architecture Firewalls Cache Invalidation Monitoring Stay hungry, stay foolish. Testing To be the best, you must be able to handle the worst. Kafka Performance Deployment
 Framework Load Testing Stay hungry, stay foolish. Quantum Computing Backend NLP Content Delivery Network CI/CD
+Load Balancing Replica Set Container Orchestration Pull Request Virtual Machines Firewalls Monitoring Artificial Intelligence Sharding NLP
