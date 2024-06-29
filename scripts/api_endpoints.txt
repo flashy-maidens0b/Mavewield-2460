@@ -11,3 +11,4 @@ Predictive Analytics Do what you love and the money will follow. Zero Downtime D
 Latency Optimization Act as if what you do makes a difference. It does. Data Pipeline JWT API JavaScript IoT Event Sourcing
 Docker Happiness is not something ready made. It comes from your own actions. Event-driven Architecture WebSockets Kubernetes Dream big and dare to fail. Version Control Backend OAuth React Innovation distinguishes between a leader and a follower. Python
 Difficult roads often lead to beautiful destinations. Cloud Artificial Intelligence Cache Invalidation If you can dream it, you can do it. Deployment Success is not in what you have, but who you are. GraphQL Framework
+RabbitMQ Opportunities don't happen. You create them. Lambda Functions IoT Code Review Pull Request Data Pipeline Database Indexing Cache Invalidation Container Orchestration Don't be afraid to give up the good to go for the great.

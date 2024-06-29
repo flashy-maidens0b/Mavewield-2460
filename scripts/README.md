@@ -10,3 +10,4 @@ Agile Sharding Zero Downtime Deployment API Gateway Edge Computing Distributed S
 DNS Routing Replica Set Container Orchestration Logging Backend Optimization JWT Version Control Message Queue Success is how high you bounce when you hit bottom.
 Distributed Systems Firewalls NLP Algorithm Multi-threading RabbitMQ Success is not in what you have, but who you are. Data Pipeline Python Zero Downtime Deployment Microservices Docker
 DevOps Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Logging Serverless Message Queue Machine Learning Act as if what you do makes a difference. It does. Sharding
+Do what you love and the money will follow. RabbitMQ Performance I find that the harder I work, the more luck I seem to have. Load Balancing Kafka UX Optimization Innovation distinguishes between a leader and a follower. Deployment Docker OAuth
