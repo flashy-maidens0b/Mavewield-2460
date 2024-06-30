@@ -17,3 +17,4 @@ Do what you love and the money will follow. Serverless JWT Monitoring NLP Micros
 Pull Request UX Optimization Quantum Computing IoT Opportunities don't happen. You create them.
 Load Testing Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Kafka Latency Optimization Database DNS Routing Success is how high you bounce when you hit bottom. Data Science Frontend Great things never come from comfort zones. NLP
 Event Sourcing RabbitMQ Monitoring Containerization Serverless Content Delivery Network
+NLP React WebSockets API Gateway Cloud Functions Event-driven Architecture Content Delivery Network Machine Learning

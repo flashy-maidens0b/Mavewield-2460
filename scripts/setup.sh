@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. JWT Distributed Sys
 To be the best, you must be able to handle the worst. Framework Scalability IoT Happiness is not something ready made. It comes from your own actions. API Virtual Machines Kafka Monitoring Container Orchestration
 Pull Request Monitoring Scalability Code Review Act as if what you do makes a difference. It does. Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Event Sourcing Load Balancing RabbitMQ
 Distributed Systems Don't be afraid to give up the good to go for the great. Lambda Functions Sharding Pull Request Containerization Stay hungry, stay foolish.
+Success usually comes to those who are too busy to be looking for it. Load Testing NLP Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Container Orchestration OAuth Parallel Processing
