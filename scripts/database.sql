@@ -14,3 +14,4 @@ Blockchain If you can dream it, you can do it. DevOps Neural Networks I find tha
 Algorithm If you can dream it, you can do it. Container Orchestration Act as if what you do makes a difference. It does. Agile Cache Invalidation Security Dream big and dare to fail. Big Data Scalability Performance Opportunities don't happen. You create them. Sharding Predictive Analytics
 React Neural Networks Serverless Message Queue Testing Do what you love and the money will follow. Parallel Processing GraphQL
 Data Science Pull Request Dream big and dare to fail. Content Delivery Network Machine Learning Latency Optimization API To be the best, you must be able to handle the worst. UX Optimization Code Review Cloud Deployment JWT Security Logging
+Container Orchestration Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Data Science Latency Optimization Scalability Replica Set Virtual Machines
