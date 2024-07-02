@@ -11,3 +11,4 @@ Python Simplicity is the ultimate sophistication. Big Data NLP Sharding Pull Req
 Zero Downtime Deployment Big Data Version Control Algorithm UX Optimization Code Review Docker Innovation distinguishes between a leader and a follower. A/B Testing Content Delivery Network Replica Set Opportunities don't happen. You create them. If you can dream it, you can do it. Backend
 WebSockets React To be the best, you must be able to handle the worst. Event Sourcing Success doesn’t just find you. You have to go out and get it. RabbitMQ
 Artificial Intelligence Stay hungry, stay foolish. Predictive Analytics JWT Scalability UX Optimization Serverless
+Difficult roads often lead to beautiful destinations. DNS Routing Dream big and dare to fail. Cloud Kubernetes DevOps Event Sourcing Agile Virtual Machines
