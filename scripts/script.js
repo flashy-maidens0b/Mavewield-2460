@@ -18,3 +18,4 @@ Firewalls To be the best, you must be able to handle the worst. Performance Dock
 Multi-threading JWT Agile Logging RabbitMQ Python Kubernetes Blockchain Cache Invalidation Edge Computing GraphQL UX Optimization
 WebSockets Multi-threading Sharding Content Delivery Network OAuth Security I find that the harder I work, the more luck I seem to have.
 Do what you love and the money will follow. GraphQL NLP Containerization Machine Learning
+Docker Microservices Data Science Opportunities don't happen. You create them. Algorithm OAuth Container Orchestration Latency Optimization Data Pipeline Load Testing Multi-threading Act as if what you do makes a difference. It does. The only way to do great work is to love what you do.
