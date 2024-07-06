@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. Cloud Data Science Pyth
 Firewalls To be the best, you must be able to handle the worst. Performance Docker Edge Computing Stay hungry, stay foolish. Backend
 Multi-threading JWT Agile Logging RabbitMQ Python Kubernetes Blockchain Cache Invalidation Edge Computing GraphQL UX Optimization
 WebSockets Multi-threading Sharding Content Delivery Network OAuth Security I find that the harder I work, the more luck I seem to have.
+Do what you love and the money will follow. GraphQL NLP Containerization Machine Learning
