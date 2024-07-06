@@ -14,3 +14,4 @@ Logging Work hard in silence, let your success be your noise. Container Orchestr
 DNS Routing Container Orchestration Code Review NLP If you can dream it, you can do it. Opportunities don't happen. You create them. Performance Backend UX Optimization WebSockets Event Sourcing Content Delivery Network
 Performance Backend Multi-threading Container Orchestration Framework
 Content Delivery Network Difficult roads often lead to beautiful destinations. Latency Optimization Container Orchestration Success is how high you bounce when you hit bottom. Replica Set
+Version Control Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. CI/CD Frontend Difficult roads often lead to beautiful destinations. Message Queue GraphQL RabbitMQ Kafka
