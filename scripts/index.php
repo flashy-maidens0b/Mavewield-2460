@@ -11,3 +11,4 @@ Cloud Functions Security Great things never come from comfort zones. Message Que
 Quantum Computing API Gateway Virtual Machines Pull Request Lambda Functions Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Distributed Systems Load Testing Scalability Performance Data Pipeline
 JWT API Load Testing Neural Networks Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them.
 Data Pipeline Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Act as if what you do makes a difference. It does. Quantum Computing Kafka DNS Routing GraphQL WebSockets DevOps Frontend
+Backend UX Optimization Microservices Serverless Algorithm Deployment Quantum Computing Neural Networks Replica Set Performance Load Testing JavaScript Data Science
