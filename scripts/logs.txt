@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Firewalls Blockchain Cache Invalidati
 OAuth Multi-threading Big Data API Difficult roads often lead to beautiful destinations.
 Frontend Code Review API Gateway Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Automation Message Queue Success is how high you bounce when you hit bottom. Event Sourcing
 Simplicity is the ultimate sophistication. Message Queue Scalability JavaScript JWT Neural Networks Do what you love and the money will follow. Container Orchestration
+Load Testing Edge Computing Replica Set Stay hungry, stay foolish. Scalability Data Science Distributed Systems Algorithm Frontend CI/CD Framework Quantum Computing Event-driven Architecture
