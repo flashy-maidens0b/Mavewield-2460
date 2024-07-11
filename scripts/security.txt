@@ -9,3 +9,4 @@ Event-driven Architecture Performance Data Pipeline The only way to do great wor
 JWT NLP Zero Downtime Deployment Replica Set Automation
 Cache Invalidation API Optimization Python Kubernetes RabbitMQ
 Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Serverless NLP Version Control Load Balancing DNS Routing Simplicity is the ultimate sophistication.
+Logging Happiness is not something ready made. It comes from your own actions. Sharding Innovation distinguishes between a leader and a follower. Testing Difficult roads often lead to beautiful destinations. Data Science IoT Scalability Container Orchestration Edge Computing Opportunities don't happen. You create them. Artificial Intelligence
