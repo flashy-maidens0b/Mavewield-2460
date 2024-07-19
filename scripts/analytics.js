@@ -13,3 +13,4 @@ Great things never come from comfort zones. Data Science Parallel Processing Ser
 Logging Work hard in silence, let your success be your noise. Container Orchestration Neural Networks IoT Algorithm Backend
 DNS Routing Container Orchestration Code Review NLP If you can dream it, you can do it. Opportunities don't happen. You create them. Performance Backend UX Optimization WebSockets Event Sourcing Content Delivery Network
 Performance Backend Multi-threading Container Orchestration Framework
+Content Delivery Network Difficult roads often lead to beautiful destinations. Latency Optimization Container Orchestration Success is how high you bounce when you hit bottom. Replica Set
