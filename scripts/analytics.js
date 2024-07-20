@@ -12,3 +12,4 @@ Great things never come from comfort zones. Scalability RabbitMQ Sharding UX Opt
 Great things never come from comfort zones. Data Science Parallel Processing Serverless React NLP Machine Learning Load Balancing Work hard in silence, let your success be your noise. IoT Scalability Monitoring Neural Networks
 Logging Work hard in silence, let your success be your noise. Container Orchestration Neural Networks IoT Algorithm Backend
 DNS Routing Container Orchestration Code Review NLP If you can dream it, you can do it. Opportunities don't happen. You create them. Performance Backend UX Optimization WebSockets Event Sourcing Content Delivery Network
+Performance Backend Multi-threading Container Orchestration Framework

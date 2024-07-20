@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. Framework Success doesn’t jus
 Multi-threading Work hard in silence, let your success be your noise. JavaScript To be the best, you must be able to handle the worst. Optimization Happiness is not something ready made. It comes from your own actions. Containerization Simplicity is the ultimate sophistication. Latency Optimization
 Performance Opportunities don't happen. You create them. Framework Server Response Serverless Latency Optimization Blockchain Replica Set Scalability Load Balancing Microservices
 Firewalls Kubernetes Monitoring API Optimization Difficult roads often lead to beautiful destinations. Big Data Load Balancing Backend
+React Performance Python Code Review Predictive Analytics Sharding API Gateway Content Delivery Network Multi-threading Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great.
