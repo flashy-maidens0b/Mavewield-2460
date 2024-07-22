@@ -7,3 +7,4 @@ Predictive Analytics I find that the harder I work, the more luck I seem to have
 WebSockets UX Optimization Testing OAuth To be the best, you must be able to handle the worst. Edge Computing Docker
 Pull Request RabbitMQ NLP Load Testing Lambda Functions API Gateway Virtual Machines Event-driven Architecture The only way to do great work is to love what you do. Data Science
 CI/CD Edge Computing Server Response Quantum Computing Act as if what you do makes a difference. It does. Distributed Systems NLP Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Cloud Functions
+Quantum Computing WebSockets Do what you love and the money will follow. Artificial Intelligence Python Version Control Automation React DNS Routing RabbitMQ Success usually comes to those who are too busy to be looking for it. JavaScript
