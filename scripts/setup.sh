@@ -8,3 +8,4 @@ Kubernetes DevOps If you can dream it, you can do it. Innovation distinguishes b
 Dream big and dare to fail. Predictive Analytics Difficult roads often lead to beautiful destinations. Replica Set Don't be afraid to give up the good to go for the great. Artificial Intelligence Machine Learning NLP Pull Request Performance Database
 Cloud Serverless Agile Load Testing React
 I find that the harder I work, the more luck I seem to have. JWT Distributed Systems Kafka API Gateway Deployment Monitoring Latency Optimization Framework Event-driven Architecture
+To be the best, you must be able to handle the worst. Framework Scalability IoT Happiness is not something ready made. It comes from your own actions. API Virtual Machines Kafka Monitoring Container Orchestration
