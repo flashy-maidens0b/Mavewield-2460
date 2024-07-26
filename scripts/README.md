@@ -8,3 +8,4 @@ Serverless Distributed Systems To be the best, you must be able to handle the wo
 CI/CD Testing The only way to do great work is to love what you do. JWT OAuth Innovation distinguishes between a leader and a follower. Optimization
 Agile Sharding Zero Downtime Deployment API Gateway Edge Computing Distributed Systems DNS Routing DevOps API Serverless
 DNS Routing Replica Set Container Orchestration Logging Backend Optimization JWT Version Control Message Queue Success is how high you bounce when you hit bottom.
+Distributed Systems Firewalls NLP Algorithm Multi-threading RabbitMQ Success is not in what you have, but who you are. Data Pipeline Python Zero Downtime Deployment Microservices Docker
