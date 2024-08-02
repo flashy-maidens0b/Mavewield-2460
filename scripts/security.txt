@@ -7,3 +7,4 @@ Load Testing Docker Message Queue Agile Replica Set Innovation distinguishes bet
 Backend RabbitMQ Predictive Analytics Blockchain IoT Content Delivery Network JWT
 Event-driven Architecture Performance Data Pipeline The only way to do great work is to love what you do. If you can dream it, you can do it. Data Science A/B Testing Server Response Scalability Dream big and dare to fail. Backend Database RabbitMQ
 JWT NLP Zero Downtime Deployment Replica Set Automation
+Cache Invalidation API Optimization Python Kubernetes RabbitMQ
