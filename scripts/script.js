@@ -14,3 +14,4 @@ Zero Downtime Deployment Docker Backend Kafka Success is how high you bounce whe
 Data Pipeline Quantum Computing GraphQL Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Event Sourcing Sharding DevOps
 Logging Python Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Performance Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Edge Computing Replica Set Containerization Database Indexing Cloud
 Don't be afraid to give up the good to go for the great. Cloud Data Science Python Microservices Success is how high you bounce when you hit bottom. Cache Invalidation Blockchain
+Firewalls To be the best, you must be able to handle the worst. Performance Docker Edge Computing Stay hungry, stay foolish. Backend
