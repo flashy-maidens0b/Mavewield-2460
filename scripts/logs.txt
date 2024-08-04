@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. DevOps Load Testing Event-
 Simplicity is the ultimate sophistication. Firewalls Blockchain Cache Invalidation GraphQL API Gateway Backend Replica Set
 OAuth Multi-threading Big Data API Difficult roads often lead to beautiful destinations.
 Frontend Code Review API Gateway Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Automation Message Queue Success is how high you bounce when you hit bottom. Event Sourcing
+Simplicity is the ultimate sophistication. Message Queue Scalability JavaScript JWT Neural Networks Do what you love and the money will follow. Container Orchestration
