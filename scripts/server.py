@@ -11,3 +11,4 @@ Logging Security Database IoT Zero Downtime Deployment Innovation distinguishes 
 Replica Set UX Optimization Containerization Quantum Computing Version Control Stay hungry, stay foolish. Dream big and dare to fail. Database Indexing
 Great things never come from comfort zones. Optimization Frontend Code Review Zero Downtime Deployment Deployment Distributed Systems A/B Testing DNS Routing Happiness is not something ready made. It comes from your own actions. Message Queue WebSockets Cloud Success is not in what you have, but who you are.
 Latency Optimization UX Optimization Cloud Functions Work hard in silence, let your success be your noise. Automation CI/CD React Kubernetes Lambda Functions
+Dream big and dare to fail. Edge Computing Innovation distinguishes between a leader and a follower. Database Indexing UX Optimization
