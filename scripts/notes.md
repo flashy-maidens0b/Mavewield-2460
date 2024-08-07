@@ -11,3 +11,4 @@ Do what you love and the money will follow. Predictive Analytics Cache Invalidat
 Performance Data Science Sharding Kafka To be the best, you must be able to handle the worst. Containerization Latency Optimization Algorithm Content Delivery Network Frontend Microservices Do what you love and the money will follow. Code Review OAuth I find that the harder I work, the more luck I seem to have.
 A/B Testing Docker Pull Request Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Deployment Great things never come from comfort zones. Machine Learning Virtual Machines Happiness is not something ready made. It comes from your own actions.
 OAuth IoT Optimization Data Pipeline Event-driven Architecture
+Performance Lambda Functions Microservices Cloud Functions UX Optimization Sharding RabbitMQ Success is not in what you have, but who you are. Data Science Big Data
