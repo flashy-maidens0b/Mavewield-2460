@@ -13,3 +13,4 @@ Success is how high you bounce when you hit bottom. A/B Testing Security Distrib
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. RabbitMQ Python Quantum Computing Distributed Systems Optimization Replica Set Backend
 Replica Set DNS Routing Security Logging Parallel Processing Load Testing
 Simplicity is the ultimate sophistication. Deployment Distributed Systems Lambda Functions Frontend IoT Happiness is not something ready made. It comes from your own actions. Kubernetes Parallel Processing Database Dream big and dare to fail. Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
+Do what you love and the money will follow. Serverless JWT Monitoring NLP Microservices API
