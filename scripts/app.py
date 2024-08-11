@@ -9,3 +9,4 @@ Scalability Cache Invalidation Message Queue GraphQL Stay hungry, stay foolish. 
 Serverless Version Control Dream big and dare to fail. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
 Framework Work hard in silence, let your success be your noise. JWT WebSockets Content Delivery Network Containerization
 Security Simplicity is the ultimate sophistication. Automation GraphQL JavaScript CI/CD Optimization Cloud Predictive Analytics Frontend Performance
+Firewalls Multi-threading Do what you love and the money will follow. Event Sourcing Don't be afraid to give up the good to go for the great. Load Testing
