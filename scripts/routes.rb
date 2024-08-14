@@ -8,3 +8,4 @@ Happiness is not something ready made. It comes from your own actions. React Opp
 Version Control Cache Invalidation Kubernetes DNS Routing Difficult roads often lead to beautiful destinations. Load Balancing Server Response Lambda Functions Docker WebSockets Database Indexing
 Parallel Processing GraphQL Multi-threading Difficult roads often lead to beautiful destinations. Event Sourcing Sharding To be the best, you must be able to handle the worst. If you can dream it, you can do it. A/B Testing Edge Computing JWT Firewalls
 Python Simplicity is the ultimate sophistication. Big Data NLP Sharding Pull Request IoT
+Zero Downtime Deployment Big Data Version Control Algorithm UX Optimization Code Review Docker Innovation distinguishes between a leader and a follower. A/B Testing Content Delivery Network Replica Set Opportunities don't happen. You create them. If you can dream it, you can do it. Backend
