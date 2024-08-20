@@ -10,3 +10,4 @@ Database Success usually comes to those who are too busy to be looking for it. P
 Blockchain Load Balancing Predictive Analytics Success usually comes to those who are too busy to be looking for it. DevOps RabbitMQ Deployment Dream big and dare to fail. Performance OAuth GraphQL
 Big Data Algorithm Artificial Intelligence Stay hungry, stay foolish. Version Control WebSockets RabbitMQ API
 Microservices Do what you love and the money will follow. Replica Set Data Pipeline Success usually comes to those who are too busy to be looking for it. Machine Learning Testing Monitoring Great things never come from comfort zones. Lambda Functions Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
+Blockchain If you can dream it, you can do it. DevOps Neural Networks I find that the harder I work, the more luck I seem to have. Kafka Zero Downtime Deployment Replica Set
