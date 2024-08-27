@@ -9,3 +9,4 @@ RabbitMQ I find that the harder I work, the more luck I seem to have. Load Balan
 To be the best, you must be able to handle the worst. Great things never come from comfort zones. Replica Set Neural Networks Virtual Machines GraphQL JWT Cloud Machine Learning A/B Testing Load Testing Container Orchestration Event Sourcing Message Queue Automation
 A/B Testing Code Review Dream big and dare to fail. Sharding Serverless Version Control Content Delivery Network Monitoring
 Great things never come from comfort zones. Scalability RabbitMQ Sharding UX Optimization
+Great things never come from comfort zones. Data Science Parallel Processing Serverless React NLP Machine Learning Load Balancing Work hard in silence, let your success be your noise. IoT Scalability Monitoring Neural Networks

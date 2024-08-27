@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Dream big and dare to fail. Success usually comes to 
 Data Science Success usually comes to those who are too busy to be looking for it. Database API Gateway Replica Set CI/CD Predictive Analytics Event-driven Architecture DevOps Distributed Systems Sharding
 Big Data Database Automation Version Control Work hard in silence, let your success be your noise. Docker
 Logging Security Database IoT Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Message Queue
+Replica Set UX Optimization Containerization Quantum Computing Version Control Stay hungry, stay foolish. Dream big and dare to fail. Database Indexing
