@@ -11,3 +11,4 @@ Neural Networks Server Response Kafka Kubernetes Parallel Processing Don't be af
 Agile JavaScript OAuth Artificial Intelligence API If you can dream it, you can do it. Automation Logging
 OAuth Automation Blockchain Latency Optimization Deployment Load Testing
 Zero Downtime Deployment Docker Backend Kafka Success is how high you bounce when you hit bottom. Cloud Replica Set Dream big and dare to fail. Work hard in silence, let your success be your noise. Framework CI/CD The only way to do great work is to love what you do. API Gateway Simplicity is the ultimate sophistication. Distributed Systems
+Data Pipeline Quantum Computing GraphQL Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Event Sourcing Sharding DevOps
