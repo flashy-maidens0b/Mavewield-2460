@@ -7,3 +7,4 @@ Work hard in silence, let your success be your noise. Success is how high you bo
 Database Indexing Predictive Analytics To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Data Pipeline Security Work hard in silence, let your success be your noise. UX Optimization DNS Routing Data Science
 Scalability Cache Invalidation Message Queue GraphQL Stay hungry, stay foolish. Machine Learning Kubernetes Happiness is not something ready made. It comes from your own actions. Data Science Serverless
 Serverless Version Control Dream big and dare to fail. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
+Framework Work hard in silence, let your success be your noise. JWT WebSockets Content Delivery Network Containerization
