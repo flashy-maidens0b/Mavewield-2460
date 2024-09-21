@@ -11,3 +11,4 @@ Monitoring CI/CD Cloud Functions Content Delivery Network Performance Agile Happ
 Virtual Machines Server Response Replica Set Kubernetes Success is not in what you have, but who you are. Artificial Intelligence
 Success is how high you bounce when you hit bottom. A/B Testing Security Distributed Systems Cloud Functions Quantum Computing Containerization I find that the harder I work, the more luck I seem to have. Event-driven Architecture Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Multi-threading DevOps UX Optimization Event Sourcing
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. RabbitMQ Python Quantum Computing Distributed Systems Optimization Replica Set Backend
+Replica Set DNS Routing Security Logging Parallel Processing Load Testing
