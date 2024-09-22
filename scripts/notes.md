@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Scalability Innovation disti
 Message Queue Event-driven Architecture Stay hungry, stay foolish. Python Opportunities don't happen. You create them. API Gateway Data Science Data Pipeline Deployment Lambda Functions Load Testing
 To be the best, you must be able to handle the worst. Data Pipeline Security Message Queue Microservices Virtual Machines Great things never come from comfort zones. Docker A/B Testing Edge Computing WebSockets Event Sourcing Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. Event Sourcing Automation Firewalls To be the best, you must be able to handle the worst. JavaScript Don't be afraid to give up the good to go for the great. Cache Invalidation Scalability Data Pipeline Pull Request Do what you love and the money will follow. Blockchain
+Deployment DNS Routing JWT Cloud API Gateway Optimization WebSockets Serverless Testing Algorithm
