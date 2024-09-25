@@ -7,3 +7,4 @@ Docker DNS Routing Dream big and dare to fail. Load Balancing Message Queue Fron
 Do what you love and the money will follow. Stay hungry, stay foolish. Docker Python Distributed Systems
 RabbitMQ I find that the harder I work, the more luck I seem to have. Load Balancing JavaScript Parallel Processing Docker IoT If you can dream it, you can do it.
 To be the best, you must be able to handle the worst. Great things never come from comfort zones. Replica Set Neural Networks Virtual Machines GraphQL JWT Cloud Machine Learning A/B Testing Load Testing Container Orchestration Event Sourcing Message Queue Automation
+A/B Testing Code Review Dream big and dare to fail. Sharding Serverless Version Control Content Delivery Network Monitoring
