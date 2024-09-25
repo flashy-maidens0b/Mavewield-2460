@@ -9,3 +9,4 @@ Algorithm Framework Backend Kafka WebSockets Replica Set
 Content Delivery Network Logging Big Data NLP Message Queue Success usually comes to those who are too busy to be looking for it. Sharding
 Monitoring CI/CD Cloud Functions Content Delivery Network Performance Agile Happiness is not something ready made. It comes from your own actions. Version Control Distributed Systems Quantum Computing Microservices Firewalls Lambda Functions
 Virtual Machines Server Response Replica Set Kubernetes Success is not in what you have, but who you are. Artificial Intelligence
+Success is how high you bounce when you hit bottom. A/B Testing Security Distributed Systems Cloud Functions Quantum Computing Containerization I find that the harder I work, the more luck I seem to have. Event-driven Architecture Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Multi-threading DevOps UX Optimization Event Sourcing
