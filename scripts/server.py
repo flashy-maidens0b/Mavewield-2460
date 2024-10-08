@@ -6,3 +6,4 @@ Serverless Success doesn’t just find you. You have to go out and get it. Data Pi
 Scalability Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Code Review JWT Data Science Load Balancing Load Testing Database Indexing
 Stay hungry, stay foolish. Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Message Queue Event Sourcing Containerization CI/CD RabbitMQ Predictive Analytics
 Data Science Success usually comes to those who are too busy to be looking for it. Database API Gateway Replica Set CI/CD Predictive Analytics Event-driven Architecture DevOps Distributed Systems Sharding
+Big Data Database Automation Version Control Work hard in silence, let your success be your noise. Docker
