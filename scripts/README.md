@@ -6,3 +6,4 @@ Algorithm Opportunities don't happen. You create them. Server Response Load Bala
 The only way to do great work is to love what you do. API Gateway Optimization Multi-threading Sharding DevOps
 Serverless Distributed Systems To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Logging Blockchain Docker Lambda Functions Pull Request Virtual Machines Success is not in what you have, but who you are. Monitoring
 CI/CD Testing The only way to do great work is to love what you do. JWT OAuth Innovation distinguishes between a leader and a follower. Optimization
+Agile Sharding Zero Downtime Deployment API Gateway Edge Computing Distributed Systems DNS Routing DevOps API Serverless
