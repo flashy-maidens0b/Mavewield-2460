@@ -8,3 +8,4 @@ JWT Lambda Functions Success is how high you bounce when you hit bottom. Blockch
 API Great things never come from comfort zones. Dream big and dare to fail. Success is not in what you have, but who you are. Zero Downtime Deployment Algorithm Edge Computing
 CI/CD Serverless Lambda Functions Testing Agile
 Neural Networks Server Response Kafka Kubernetes Parallel Processing Don't be afraid to give up the good to go for the great. Message Queue Firewalls Success doesn’t just find you. You have to go out and get it. UX Optimization
+Agile JavaScript OAuth Artificial Intelligence API If you can dream it, you can do it. Automation Logging
