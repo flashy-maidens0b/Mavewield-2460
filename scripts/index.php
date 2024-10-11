@@ -7,3 +7,4 @@ Latency Optimization Stay hungry, stay foolish. Blockchain API Gateway Message Q
 API Database Indexing I find that the harder I work, the more luck I seem to have. Load Testing DNS Routing Content Delivery Network GraphQL Python Load Balancing
 Data Pipeline Backend Container Orchestration Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Docker Distributed Systems Quantum Computing Kafka
 Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. UX Optimization NLP Edge Computing Multi-threading Cache Invalidation Event Sourcing If you can dream it, you can do it. Dream big and dare to fail. Neural Networks Algorithm Machine Learning Deployment
+Cloud Functions Security Great things never come from comfort zones. Message Queue Success is how high you bounce when you hit bottom.
