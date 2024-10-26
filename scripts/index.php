@@ -5,3 +5,4 @@ Lambda Functions Artificial Intelligence Work hard in silence, let your success 
 Load Testing Replica Set Microservices GraphQL Data Pipeline Scalability Python Monitoring CI/CD Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Virtual Machines Message Queue Blockchain Testing
 Latency Optimization Stay hungry, stay foolish. Blockchain API Gateway Message Queue Firewalls Cloud Distributed Systems API GraphQL React Great things never come from comfort zones. UX Optimization Lambda Functions
 API Database Indexing I find that the harder I work, the more luck I seem to have. Load Testing DNS Routing Content Delivery Network GraphQL Python Load Balancing
+Data Pipeline Backend Container Orchestration Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Docker Distributed Systems Quantum Computing Kafka
