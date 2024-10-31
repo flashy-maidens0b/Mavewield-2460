@@ -8,3 +8,4 @@ Data Science API Gateway Load Testing Code Review Dream big and dare to fail. Mi
 Algorithm Framework Backend Kafka WebSockets Replica Set
 Content Delivery Network Logging Big Data NLP Message Queue Success usually comes to those who are too busy to be looking for it. Sharding
 Monitoring CI/CD Cloud Functions Content Delivery Network Performance Agile Happiness is not something ready made. It comes from your own actions. Version Control Distributed Systems Quantum Computing Microservices Firewalls Lambda Functions
+Virtual Machines Server Response Replica Set Kubernetes Success is not in what you have, but who you are. Artificial Intelligence
