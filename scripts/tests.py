@@ -7,3 +7,4 @@ Python Happiness is not something ready made. It comes from your own actions. Co
 Data Science API Gateway Load Testing Code Review Dream big and dare to fail. Microservices Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
 Algorithm Framework Backend Kafka WebSockets Replica Set
 Content Delivery Network Logging Big Data NLP Message Queue Success usually comes to those who are too busy to be looking for it. Sharding
+Monitoring CI/CD Cloud Functions Content Delivery Network Performance Agile Happiness is not something ready made. It comes from your own actions. Version Control Distributed Systems Quantum Computing Microservices Firewalls Lambda Functions
