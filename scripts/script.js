@@ -6,3 +6,4 @@ Backend If you can dream it, you can do it. Cloud Functions Frontend Big Data Gr
 Difficult roads often lead to beautiful destinations. Machine Learning Kubernetes Database Indexing Happiness is not something ready made. It comes from your own actions. Database Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. NLP RabbitMQ Lambda Functions Innovation distinguishes between a leader and a follower.
 JWT Lambda Functions Success is how high you bounce when you hit bottom. Blockchain Neural Networks DevOps Framework Great things never come from comfort zones. Big Data Automation
 API Great things never come from comfort zones. Dream big and dare to fail. Success is not in what you have, but who you are. Zero Downtime Deployment Algorithm Edge Computing
+CI/CD Serverless Lambda Functions Testing Agile
