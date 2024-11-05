@@ -6,3 +6,4 @@ Agile Act as if what you do makes a difference. It does. API Cache Invalidation 
 Python Happiness is not something ready made. It comes from your own actions. Containerization Frontend Success is not in what you have, but who you are. Content Delivery Network
 Data Science API Gateway Load Testing Code Review Dream big and dare to fail. Microservices Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
 Algorithm Framework Backend Kafka WebSockets Replica Set
+Content Delivery Network Logging Big Data NLP Message Queue Success usually comes to those who are too busy to be looking for it. Sharding
