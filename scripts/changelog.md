@@ -4,3 +4,4 @@ Performance GraphQL If you can dream it, you can do it. Database Indexing React 
 Edge Computing Performance Machine Learning Serverless WebSockets A/B Testing
 Don't be afraid to give up the good to go for the great. React Performance The only way to do great work is to love what you do. Predictive Analytics Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. DevOps
 Predictive Analytics I find that the harder I work, the more luck I seem to have. Containerization Data Science Opportunities don't happen. You create them. Database Indexing Virtual Machines Monitoring Do what you love and the money will follow. Optimization Version Control Success usually comes to those who are too busy to be looking for it. Latency Optimization Success is not in what you have, but who you are. UX Optimization
+WebSockets UX Optimization Testing OAuth To be the best, you must be able to handle the worst. Edge Computing Docker
