@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Multi-thre
 DevOps Quantum Computing Microservices Pull Request Agile Automation Cloud Functions Latency Optimization Server Response UX Optimization I find that the harder I work, the more luck I seem to have.
 Serverless Success doesn’t just find you. You have to go out and get it. Data Pipeline Containerization Testing Cache Invalidation
 Scalability Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Code Review JWT Data Science Load Balancing Load Testing Database Indexing
+Stay hungry, stay foolish. Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Message Queue Event Sourcing Containerization CI/CD RabbitMQ Predictive Analytics

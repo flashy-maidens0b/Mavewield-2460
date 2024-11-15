@@ -2,3 +2,4 @@ Logging Virtual Machines Big Data Docker Optimization Event-driven Architecture 
 Message Queue Automation Firewalls Blockchain Load Testing Cloud Lambda Functions
 Containerization Python Docker Quantum Computing NLP Event-driven Architecture Success is how high you bounce when you hit bottom. Neural Networks Great things never come from comfort zones. Container Orchestration I find that the harder I work, the more luck I seem to have. Microservices Code Review Backend
 WebSockets Agile API Gateway Edge Computing JWT Security Kubernetes NLP
+Cache Invalidation Message Queue Latency Optimization Cloud API Gateway
