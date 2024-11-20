@@ -4,3 +4,4 @@ Stay hungry, stay foolish. OAuth Great things never come from comfort zones. Dis
 Parallel Processing Optimization Database JavaScript The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Virtual Machines Lambda Functions GraphQL Success is not in what you have, but who you are. Big Data
 Agile Act as if what you do makes a difference. It does. API Cache Invalidation OAuth Optimization Data Science Work hard in silence, let your success be your noise.
 Python Happiness is not something ready made. It comes from your own actions. Containerization Frontend Success is not in what you have, but who you are. Content Delivery Network
+Data Science API Gateway Load Testing Code Review Dream big and dare to fail. Microservices Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
