@@ -1,2 +1,3 @@
 Innovation distinguishes between a leader and a follower. Cloud Sharding Data Science Microservices Artificial Intelligence Blockchain Performance WebSockets Work hard in silence, let your success be your noise. OAuth Big Data API
 Innovation distinguishes between a leader and a follower. Machine Learning Success doesn’t just find you. You have to go out and get it. Server Response If you can dream it, you can do it. Data Science Parallel Processing A/B Testing JWT
+Stay hungry, stay foolish. Kafka I find that the harder I work, the more luck I seem to have. Cache Invalidation Simplicity is the ultimate sophistication. Framework Big Data Cloud Functions Optimization UX Optimization Zero Downtime Deployment
