@@ -2,3 +2,4 @@ Quantum Computing Innovation distinguishes between a leader and a follower. JWT 
 Predictive Analytics Data Science Data Pipeline Algorithm DNS Routing Cache Invalidation Neural Networks JavaScript CI/CD I find that the harder I work, the more luck I seem to have. Containerization
 Load Testing Kubernetes Firewalls Algorithm Frontend React If you can dream it, you can do it. Act as if what you do makes a difference. It does. Virtual Machines Blockchain
 Latency Optimization Firewalls Performance Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Load Testing Message Queue
+Backend If you can dream it, you can do it. Cloud Functions Frontend Big Data GraphQL
