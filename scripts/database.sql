@@ -1,1 +1,2 @@
 Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Testing Artificial Intelligence GraphQL If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Sharding Message Queue
+Deployment Python API Gateway Event Sourcing WebSockets Machine Learning Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. OAuth Opportunities don't happen. You create them.
