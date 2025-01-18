@@ -1,1 +1,2 @@
 Cloud Functions Data Science Load Testing Scalability Pull Request NLP Big Data Distributed Systems Don't be afraid to give up the good to go for the great. Optimization Backend Cloud If you can dream it, you can do it. Zero Downtime Deployment
+JWT Cloud Functions Stay hungry, stay foolish. DNS Routing Load Balancing Python Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Frontend IoT Container Orchestration WebSockets Performance Security

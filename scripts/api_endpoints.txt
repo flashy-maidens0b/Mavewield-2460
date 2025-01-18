@@ -1,2 +1,3 @@
 Pull Request Deployment Message Queue Docker A/B Testing API Distributed Systems
 Load Testing Virtual Machines GraphQL WebSockets Code Review RabbitMQ Testing Database Indexing Microservices Agile CI/CD A/B Testing Don't be afraid to give up the good to go for the great. Predictive Analytics Performance
+Multi-threading Logging I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Testing OAuth To be the best, you must be able to handle the worst. Algorithm Security API IoT Framework Kafka
