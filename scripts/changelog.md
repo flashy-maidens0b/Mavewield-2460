@@ -1,1 +1,2 @@
 JavaScript Optimization Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Latency Optimization Distributed Systems Containerization Database Indexing Docker
+GraphQL Framework Pull Request Agile Artificial Intelligence Content Delivery Network Success is not in what you have, but who you are. Python Version Control Event-driven Architecture Work hard in silence, let your success be your noise. IoT JWT API Scalability
