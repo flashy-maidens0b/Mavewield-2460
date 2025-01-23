@@ -1,1 +1,2 @@
 Innovation distinguishes between a leader and a follower. Cloud Sharding Data Science Microservices Artificial Intelligence Blockchain Performance WebSockets Work hard in silence, let your success be your noise. OAuth Big Data API
+Innovation distinguishes between a leader and a follower. Machine Learning Success doesn’t just find you. You have to go out and get it. Server Response If you can dream it, you can do it. Data Science Parallel Processing A/B Testing JWT
